@@ -86,7 +86,7 @@ If you work in transit, public health, climate equity, or disability justice —
 ## 📬 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nicolasmeyering-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nicolasmeyering)
-[![Email](https://img.shields.io/badge/Email-nicmeyering%40gmail.com-red?style=flat&logo=gmail)](mailto:nicmeyering@gmail.com)
+[![Email](https://img.shields.io/badge/Email-meyeringn%40gmail.com-red?style=flat&logo=gmail)](mailto:meyeringn@gmail.com)
 
 *Open to civic tech collaboration, transit agency pilots, fellowship opportunities, and conversations about building ML tools that center the people most affected by the systems they model.*
 

@@ -26,7 +26,7 @@ The official US heat death count for 2023: **2,415**. The estimated real count: 
 
 - **Primary user:** Municipal OEMs, public health departments, community-based organizations
 - **Scope:** National coverage at ZIP code level; deployable 48–72 hours before event peak
-- **Status:** Design memo · Seeking public health and climate equity partners
+- **Status:** Phase 2 EDA in progress
 
   -----
 
@@ -40,7 +40,7 @@ Think of it as a credit score for mechanical equipment. One number per unit. One
 
 - **Primary user:** Disabled transit riders (and everyone else who can’t use stairs)
 - **Scope:** Designed to scale from MTA NYC to any transit system on earth
-- **Status:** Design memo · Seeking transit agency and development partners
+- **Status:** Phase 2 EDA in progress
 
 -----
 

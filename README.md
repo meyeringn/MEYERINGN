@@ -16,20 +16,6 @@ I completed the **Equitech Futures Civic Tech Institute (CTI) 2026** cohort, whe
 
 ## 🚇 Featured Projects
 
-### [UpLift](https://github.com/meyeringn/uplift-transit) — Transit Accessibility Failure Prediction
-
-> *XGBoost · Supervised Classification · Transit Equity · Disability Justice*
-
-Predicts which transit elevators, escalators, and platform lifts are likely to fail in the next 30 days — so maintenance happens **before** a Disabled rider shows up to a broken elevator with nowhere else to go.
-
-Think of it as a credit score for mechanical equipment. One number per unit. One ranked list for maintenance teams. Zero riders stranded without warning.
-
-- **Primary user:** Disabled transit riders (and everyone else who can’t use stairs)
-- **Scope:** Designed to scale from MTA NYC to any transit system on earth
-- **Status:** Design memo · Seeking transit agency and development partners
-
------
-
 ### [SustAInable](https://github.com/meyeringn/sustainable-heat) — Neighborhood Heat Illness Risk Prediction
 
 > *XGBoost · Supervised Classification · Climate Equity · Public Health*
@@ -41,6 +27,20 @@ The official US heat death count for 2023: **2,415**. The estimated real count: 
 - **Primary user:** Municipal OEMs, public health departments, community-based organizations
 - **Scope:** National coverage at ZIP code level; deployable 48–72 hours before event peak
 - **Status:** Design memo · Seeking public health and climate equity partners
+
+  -----
+
+### [UpLift](https://github.com/meyeringn/uplift-transit) — Transit Accessibility Failure Prediction
+
+> *XGBoost · Supervised Classification · Transit Equity · Disability Justice*
+
+Predicts which transit elevators, escalators, and platform lifts are likely to fail in the next 30 days — so maintenance happens **before** a Disabled rider shows up to a broken elevator with nowhere else to go.
+
+Think of it as a credit score for mechanical equipment. One number per unit. One ranked list for maintenance teams. Zero riders stranded without warning.
+
+- **Primary user:** Disabled transit riders (and everyone else who can’t use stairs)
+- **Scope:** Designed to scale from MTA NYC to any transit system on earth
+- **Status:** Design memo · Seeking transit agency and development partners
 
 -----
 

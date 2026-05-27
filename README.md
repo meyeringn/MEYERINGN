@@ -40,8 +40,7 @@ Think of it as a credit score for mechanical equipment. One number per unit. One
 - **Primary user:** Disabled transit riders (and everyone else who can’t use stairs)
 - **Scope:** Designed to scale from MTA NYC to any transit system on earth
 - **Status:** Phase 2 EDA in progress
-- **The climate connection:**
-- Transit is one of the highest-impact emissions reduction tools a city has, but it's also a climate vulnerability. When extreme heat compounds with a broken elevator, a Disabled rider isn't just inconvenienced, they're stranded because the system didn't account for them. UpLift treats accessibility infrastructure reliability as a climate resilience issue, not a maintenance backlog. 
+- **The climate connection:** Transit is one of the highest-impact emissions reduction tools a city has, but it's also a climate vulnerability. When extreme heat compounds with a broken elevator, a Disabled rider isn't just inconvenienced, they're stranded because the system didn't account for them. UpLift treats accessibility infrastructure reliability as a climate resilience issue, not a maintenance backlog. 
 
 -----
 

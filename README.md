@@ -75,7 +75,17 @@ Civic Data          CDC PLACES · NOAA HeatRisk · ACS 5-Year Estimates
 Domains             Transit Equity · Disability Justice · Climate Equity
                     Public Health · Civic Technology · AI Governance
 ```
+## 🌍 Key Climate & Public Data Sources
 
+| Dataset | Source | Used In |
+|---|---|---|
+| HeatRisk Index | NOAA / NWS | SustAInable |
+| Heat-Related Illness Surveillance | CDC NSSP / ESSENCE | SustAInable |
+| Underlying Cause of Death | CDC WONDER | SustAInable |
+| PLACES: Local Health Data | CDC | SustAInable |
+| American Community Survey (5-Year) | U.S. Census Bureau | Both |
+| Elevator/Escalator Maintenance Records | MTA Open Data | UpLift |
+| GTFS Transit Feed | OpenMobilityData | UpLift |
 -----
 
 ## 🖖 A Few Other Things

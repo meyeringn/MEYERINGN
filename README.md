@@ -98,7 +98,9 @@ If you work in transit, public health, climate equity, or disability justice —
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nicolasmeyering-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nicolasmeyering)
 [![Email](https://img.shields.io/badge/Email-meyeringn%40gmail.com-red?style=flat&logo=gmail)](mailto:meyeringn@gmail.com)
 
-*Open to civic tech collaboration, transit agency pilots, fellowship opportunities, and conversations about building ML tools that center the people most affected by the systems they model.*
+*Actively seeking climate tech fellowship, transit agency pilots, and civic tech collaborators, especially at the intersection of machine learning, climate adaptation, and disability justice. Currently targeting programs including ClimateBase, GPLEX, and mission-aligned organizations building for equity.
+
+If you work in transit, public health, climate resilience, or disability justice, and you're looking for someone who understands the policy and the pipeline, [let's talk](mailto:meyeringn@gmail.com)*
 
 -----
 

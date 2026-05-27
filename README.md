@@ -22,12 +22,11 @@ I completed the **Equitech Futures Civic Tech Institute (CTI) 2026** cohort, whe
 
 Assigns every US ZIP code a probability score for elevated heat illness during an approaching extreme heat event — so cities deploy cooling resources **before** hospitalizations pile up, not after.
 
-The official US heat death count for 2023: **2,415**. The estimated real count: **~11,000**. That gap is a policy failure and a data problem. SustAInable is a proposal to close it.
+The official US heat death count for 2023: **2,415**. The estimated real count: **~11,000**. That gap is a policy failure and a data problem. SustAInable is a proposal to close it, deploying predictive machine learning as a climate resilience intervention, not an after-disaster report.
 
 - **Primary user:** Municipal OEMs, public health departments, community-based organizations
 - **Scope:** National coverage at ZIP code level; deployable 48–72 hours before event peak
 - **Status:** Phase 2 EDA in progress
-- **Why this is a climate problem:** Extreme heat events are increasing in frequency and severity due to climate change, and the communities least responsible for emissions are dying from them at disproportionate rates. The 11,000 vs. 2,415 death gap is a data problem and a massive failure for climate adaptation. SustAInable is a proposal to close it, deploying predictive machine learning as a climate resilience intervention, not an after-disaster report
   -----
 
 ### [UpLift](https://github.com/meyeringn/uplift-transit) — Transit Accessibility Failure Prediction

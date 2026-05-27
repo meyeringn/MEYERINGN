@@ -1,6 +1,6 @@
 # Nico Meyering
 
-### Civic Tech Builder · Civic Leader · Philadelphia, PA
+### Civic Tech Builder · Sustainability Leader · Philadelphia, PA
 
 > *“The needs of the many” is a starting point. I build for the ones the system forgot to count.*
 
@@ -10,7 +10,7 @@ I design machine learning tools for the communities most likely to be missed by 
 
 By day I work in fintech. By conviction I work in civic tech.
 
-I completed the **Equitech Futures Civic Tech Institute (CTI) 2026** cohort, where I developed two supervised ML tools grounded in publicly available data and designed explicitly for equity. Think of me as an engineer who reads the mission statement first and the tech specs second.
+I completed the **Equitech Futures Civic Tech Institute (CTI) 2026** cohort, where I developed two supervised machine learning tools grounded in publicly available data and designed explicitly for equity. Think of me as an engineer who reads the mission statement first and the tech specs second.
 
 -----
 

@@ -33,7 +33,7 @@ The official US heat death count for 2023: **2,415**. The estimated real count: 
 - **Primary user:** Municipal OEMs, public health departments, community-based organizations
 - **Scope:** National coverage at ZIP code level; deployable 48–72 hours before event peak
 - **Status:** Phase 2 EDA in progress
-**  -----
+
 
 ### [UpLift](https://github.com/meyeringn/uplift-transit) — Transit Accessibility Failure Prediction
 

@@ -1,5 +1,5 @@
 # Nico Meyering
-
+![Header](./banner.png)
 ### Civic Tech Builder · Climate and Sustainability Technologist · Philadelphia, PA
 
 > *“The needs of the many” is a starting point. I build for the ones the system forgot to count.*

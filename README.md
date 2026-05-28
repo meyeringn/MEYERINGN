@@ -18,7 +18,7 @@ I completed the **Equitech Futures Civic Tech Institute (CTI) 2026** cohort, whe
 
 ### Climate + Equity Focus
 
-I approach climate tech the same way I approach civic tech: equity isn't a filter you apply at the end. I work to center communities at the intersections of climate vulnerability and systemic neglect. Tools that don't address underserved resident groups isn't really solving the problem.
+I approach climate tech the same way I approach civic tech: equity isn't a filter you apply at the end. I work to center communities at the intersections of climate vulnerability and systemic neglect. Tools that don't address underserved resident groups don't really solve the problem.
 
 ## 🚇 Featured Projects
 
@@ -30,7 +30,7 @@ Assigns every US ZIP code a probability score for elevated heat illness during a
 
 The official US heat death count for 2023: **2,415**. The estimated real count: **~11,000**. That gap is a policy failure and a data problem. SustAInable is a proposal to close it, deploying predictive machine learning as a climate resilience intervention, not an after-disaster report.
 
-- **Primary user:** Municipal OEMs, public health departments, community-based organizations
+- **Primary user:** Municipal emergency management agencies, public health departments, community-based organizations
 - **Scope:** National coverage at ZIP code level; deployable 48–72 hours before event peak
 - **Status:** Phase 2 EDA in progress
 
@@ -96,8 +96,6 @@ Domains             Transit Equity · Disability Justice · Climate Equity
 
 I am a lifelong comics reader, a Starfleet sympathizer, and someone who believes the Rebellion had better data infrastructure than the Empire ever gave them credit for. I watch Formula One for the telemetry. I’m Disabled and that shows up in how I build.
 
-If you work in transit, public health, climate equity, or disability justice — and you’re looking for someone who understands the policy and the pipeline — I want to hear from you.
-
 -----
 
 ## 📬 Let’s Connect
@@ -105,9 +103,9 @@ If you work in transit, public health, climate equity, or disability justice —
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nicolasmeyering-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nicolasmeyering)
 [![Email](https://img.shields.io/badge/Email-meyeringn%40gmail.com-red?style=flat&logo=gmail)](mailto:meyeringn@gmail.com)
 
-*Actively seeking climate tech fellowship, transit agency pilots, and civic tech collaborators, especially at the intersection of machine learning, climate adaptation, and disability justice. Currently targeting programs including ClimateBase, GPLEX, and mission-aligned organizations building for equity.
+*Actively seeking climate tech fellowship, transit agency pilots, and civic tech collaborators, especially at the intersection of machine learning, climate adaptation, and disability justice. Currently targeting programs including ClimateBase, GPLEX, and mission-aligned organizations building for equity.*
 
-If you work in transit, public health, climate resilience, or disability justice, and you're looking for someone who understands the policy and the pipeline, [let's talk](mailto:meyeringn@gmail.com)*
+*If you work in transit, public health, climate resilience, or disability justice, and you're looking for someone who understands the policy and the pipeline, [let's talk](mailto:meyeringn@gmail.com)*
 
 -----
 

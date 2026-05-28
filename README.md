@@ -77,6 +77,8 @@ Civic Data          CDC PLACES · NOAA HeatRisk · ACS 5-Year Estimates
 
 Domains             Transit Equity · Disability Justice · Climate Equity
                     Public Health · Civic Technology · AI Governance
+
+![Nico's GitHub Stats](https://github-readme-stats.vercel.app/api?username=meyeringn&show_icons=true&theme=dark&hide_border=true)
 ```
 ## 🌍 Key Climate & Public Data Sources
 

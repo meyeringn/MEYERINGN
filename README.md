@@ -15,6 +15,7 @@ By day I work in fintech. By conviction I work in civic tech.
 My work lives in two tracks:
 
 -**Machine Learning for Equity** - Supervised machine learning models built on public data, designed to help cities act *before* harm happens
+
 -**Vibe Coding for Climate Justice** - No-cost, low barrier climate tools built with Claude assistance and open-source data, so communities don't need a development budget to get answers
 
 I completed the **Equitech Futures Civic Tech Institute (CTI) 2026** cohort. Think of me as an engineer who reads the mission statement first and the tech specs second.

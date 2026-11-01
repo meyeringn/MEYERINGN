@@ -12,11 +12,13 @@ Climate vulnerability follows the same maps. The neighborhoods most exposed to e
 
 By day I work in fintech. By conviction I work in civic tech.
 
+**Why I build:** I nearly passed out walking my dog during Philadelphia’s June 2025 heat emergency. I’m Disabled. I don’t have the option of “just stay inside.” Neither do a lot of people.
+
 My work lives in two tracks:
 
--**Machine Learning for Equity** - Supervised machine learning models built on public data, designed to help cities act *before* harm happens
+- **Machine Learning for Equity:** Supervised machine learning models built on public data, designed to help cities act *before* harm happens
 
--**Vibe Coding for Climate Justice** - No-cost, low barrier climate tools built with Claude assistance and open-source data, so communities don't need a development budget to get answers
+- **Vibe Coding for Climate Justice:** No-cost, low barrier climate tools built with Claude assistance and open-source data, so communities don't need a development budget to get answers
 
 I completed the **Equitech Futures Civic Tech Institute (CTI) 2026** cohort. Think of me as an engineer who reads the mission statement first and the tech specs second.
 
@@ -25,6 +27,35 @@ I completed the **Equitech Futures Civic Tech Institute (CTI) 2026** cohort. Thi
 ### Climate + Equity Focus
 
 I approach climate tech the same way I approach civic tech: equity isn't a filter you apply at the end. I work to center communities at the intersections of climate vulnerability and systemic neglect. Tools that don't address underserved resident groups don't really solve the problem.
+
+
+## 🌱 Live Civic Tools: Vibe Coding for Climate Justice
+
+No-cost, no-framework, no-barrier tools, built with AI assistance and open-source data. Every tool runs in the browser. No installs. No API keys. No budget required.
+
+The goal: make public data legible and actionable for communities, advocates, and organizers who shouldn’t need a dev team to answer basic questions about their own neighborhoods. Each tool is built around one question a Philadelphian actually asks.
+
+### For voters
+| Tool | The question it answers | Launch |
+| --- | --- | --- |
+| 🗳️ **BallotGap PHL** | Where do I vote, can I get in, and how do I get there? Plain-language polling place accessibility, plus ward-level data for administrators and advocates. | [Launch →](https://meyeringn.github.io/ballotgap-phl/) |
+| 📜 **PlainSpeak** | What does this policy actually say? Reading-level scoring, jargon flags, and a plain-language draft. | [Launch →](https://meyeringn.github.io/plainspeak-policy-explainer/) |
+
+### For renters and neighbors
+| Tool | The question it answers | Launch |
+| --- | --- | --- |
+| 🌊 **FloodRisk Philly** | Is my address in a flood zone, and what should a renter do about it? Includes a Spanish toggle. | [Launch →](https://meyeringn.github.io/floodrisk-philly/) |
+| 🧊 **ClimateRefuge Philly** | Where can I cool down, breathe cleaner air, or charge medical equipment in a climate emergency? | [Launch →](https://meyeringn.github.io/climate-refuge-philly/) |
+| 🌳 **CanopyWatch** | Which neighborhoods are missing shade, and who pays for it in heat? | [Launch →](https://meyeringn.github.io/canopy-watch/) |
+
+### For riders and transit advocates
+| Tool | The question it answers | Launch |
+| --- | --- | --- |
+| 🚌 **Transit Carbon Calculator** | How much carbon does my ride save? Covers 11 Pennsylvania transit agencies, built with Transit 4 All PA. | [Launch →](https://meyeringn.github.io/transit-carbon-calculator/) |
+
+Every live tool is checked for accessibility every week. [See the results →](https://github.com/meyeringn/meyeringn.github.io/actions/workflows/accessibility-check.yml)
+
+-----
 
 
 ## 🤖 Machine Learning Projects
@@ -37,11 +68,10 @@ Assigns every US ZIP code a probability score for elevated heat illness during a
 
 The official US heat death count for 2023: **2,415**. The estimated real count: **~11,000**. That gap is a policy failure and a data problem. SustAInable is a proposal to close it.
 
-**Origin story:** I nearly passed out walking my dog during Philadelphia’s June 2025 heat emergency. I’m Disabled. I don’t have the option of “just stay inside.” Neither do a lot of people.
-
 - 🎯 **Primary users:** Municipal emergency managers, public health departments, community-based organizations
 - 🗺️ **Scope:** National coverage at ZIP code level; deployable 48–72 hours before event peak
 - 📊 **Stack:** XGBoost · CDC PLACES · NOAA HeatRisk · ACS 5-Year Estimates · SMOTE
+- 🧪 **Status:** Design memo complete, exploratory analysis underway; seeking public health and emergency management pilot partners
 
 -----
 
@@ -56,53 +86,19 @@ Think of it as a credit score for mechanical equipment. One number per unit. One
 - 🎯 **Primary users:** Disabled transit riders (and everyone else who can’t use stairs)
 - 🗺️ **Scope:** Designed to scale from MTA NYC to any transit system on earth
 - 📊 **Stack:** XGBoost · MTA Open Data · SHAP Explainability · Precision-Recall Optimization
+- 🧪 **Status:** Full prototype pipeline built on synthetic data; seeking a transit agency partner to retrain on real maintenance records
 
 -----
 
-## 🌱 Vibe Coding for Climate Justice
+## 📣 Impact So Far
 
-No-cost, no-framework, no-barrier climate tools — built with AI assistance and open-source data. Every tool runs in the browser. No installs. No API keys. No budget required.
-
-The goal: make climate data legible and actionable for communities, advocates, and organizers who shouldn’t need a dev team to answer basic questions about their own neighborhoods.
-
------
-
-### [Transit Carbon Calculator](https://meyeringn.github.io/transit-carbon-calculator/)
-
-> *Plain HTML/CSS/JS · No frameworks · Runs entirely in browser*
-
-How much CO₂ are you actually saving by taking the bus? This tool answers that question — instantly, for free — so advocates, transit agencies, and everyday riders have a number to point to.
-
-Built as a single `index.html` file. Zero dependencies. Open it anywhere.
-
-- 🔗 **Live tool:** [meyeringn.github.io/transit-carbon-calculator](https://meyeringn.github.io/transit-carbon-calculator/)
-- 📁 **Repo:** [github.com/meyeringn/transit-carbon-calculator](https://github.com/meyeringn/transit-carbon-calculator)
+- **Transit Carbon Calculator** expanded to 11 Pennsylvania transit agencies in partnership with Transit 4 All PA
+- **Accessible Voting Workshop** (October 6, 2026), built around BallotGap PHL
+- **League of Women Voters of PA** voter engagement event speaker (October 19, 2026)
+- **Equitech Futures Civic Tech Institute** 2026 cohort, completed with two machine learning capstones
 
 -----
 
-### [CanopyWatch](https://meyeringn.github.io/canopy-watch/)
-
-> *Plain HTML/CSS/JS · OpenDataPhilly · No frameworks · Runs entirely in browser*
-
-Maps tree canopy coverage, heat risk, disability vulnerability, and equity gaps across 36 Philadelphia neighborhoods — in one place, for free, right now.
-
-Features an equity dashboard, neighborhood comparison tool, disability + heat vulnerability tab, and a policy action generator. Built for organizers, planners, and residents who need to see the whole picture at once.
-
-- 🔗 **Live tool:** [meyeringn.github.io/canopy-watch](https://meyeringn.github.io/canopy-watch/)
-- 📁 **Repo:** [github.com/meyeringn/canopy-watch](https://github.com/meyeringn/canopy-watch)
-
------
-
-### All Vibe Coding for Climate Justice Tools
-
-|Tool |What It Does |Live |
-|---------------------------|---------------------------------------------------------------------------------|------------------------------------------------------------------|
-|🚌 Transit Carbon Calculator|CO₂ savings: transit vs. driving |[Launch →](https://meyeringn.github.io/transit-carbon-calculator/)|
-|🌳 CanopyWatch |Tree canopy · heat risk · disability vulnerability across 36 Philly neighborhoods|[Launch →](https://meyeringn.github.io/canopy-watch/) |
-
-*More tools in development.*
-
------
 
 ## 🏙️ Civic Leadership
 
@@ -113,7 +109,7 @@ I don’t just build tools about civic systems. I work inside them.
 |Chairman |Philadelphia Mayor’s Commission on People with Disabilities|
 |VP of Growth & Partnerships|Net Impact Philadelphia |
 |Steering Committee |Transit Forward Philadelphia |
-|Board Member |Disability Pride Pennsylvania |
+|Board President |Disability Pride Pennsylvania |
 |Trustee |Awesome Foundation — Disability Chapter |
 
  I’m trying to make Philadelphia work better — for Disabled residents, transit riders, and communities that government data has historically undercounted.

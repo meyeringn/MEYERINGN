@@ -53,7 +53,9 @@ The goal: make public data legible and actionable for communities, advocates, an
 | --- | --- | --- |
 | 🚌 **Transit Carbon Calculator** | How much carbon does my ride save? Covers 11 Pennsylvania transit agencies, built with Transit 4 All PA. | [Launch →](https://meyeringn.github.io/transit-carbon-calculator/) |
 
-Every live tool is checked for accessibility every week. [See the results →](https://github.com/meyeringn/meyeringn.github.io/actions/workflows/accessibility-check.yml)
+[![Accessibility check](https://github.com/meyeringn/meyeringn.github.io/actions/workflows/accessibility-check.yml/badge.svg)](https://github.com/meyeringn/meyeringn.github.io/actions/workflows/accessibility-check.yml)
+
+Every live tool is checked against WCAG 2.1 AA every week, and each one has a public accessibility statement listing known issues. [See the latest results →](https://github.com/meyeringn/meyeringn.github.io/actions/workflows/accessibility-check.yml)
 
 -----
 

@@ -39,7 +39,13 @@ The goal: make public data legible and actionable for communities, advocates, an
 | Tool | The question it answers | Launch |
 | --- | --- | --- |
 | 🗳️ **BallotGap PHL** | Where do I vote, can I get in, and how do I get there? Plain-language polling place accessibility, plus ward-level data for administrators and advocates. | [Launch →](https://meyeringn.github.io/ballotgap-phl/) |
+| 🚪 **Open Door Index** | Can every Philadelphian get in the room? A sourced scorecard of meeting access at City Council and ten city boards. | [Launch →](https://meyeringn.github.io/open-door-index/) |
 | 📜 **PlainSpeak** | What does this policy actually say? Reading-level scoring, jargon flags, and a plain-language draft. | [Launch →](https://meyeringn.github.io/plainspeak-policy-explainer/) |
+
+### For hosts, diplomats, and students
+| Tool | The question it answers | Launch |
+| --- | --- | --- |
+| 🗺️ **Gateway Atlas** | What ties Philadelphia to its eleven sister cities, and how do we welcome every delegate? A watercolor atlas with briefings and an access plan. | [Launch →](https://meyeringn.github.io/gateway-atlas/) |
 
 ### For renters and neighbors
 | Tool | The question it answers | Launch |
